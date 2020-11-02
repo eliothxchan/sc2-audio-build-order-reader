@@ -9,7 +9,7 @@ def perform_action(printed_statement, spoken_text):
     print(printed_statement)
     call(["python3", "tts.py", spoken_text])
 
-def read(build_file, shorthand):
+def read(build_file, shorthand, supply):
     print("Press enter to begin: ", end = '')
     input()
 
@@ -31,4 +31,6 @@ def read(build_file, shorthand):
 
             if shorthand:
                 actions = sc_bo_utils.to_shorthand(actions)
+            if supply:
+                actions = row[0] + " " + actions
             Timer(timer_length, perform_action, args=[printed_text, actions]).start()

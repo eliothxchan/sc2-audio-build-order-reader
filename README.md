@@ -8,7 +8,17 @@ This does not work without timestamps.
 
 This project requires Python 3. Install the necessary requirements using `pip3 install -r requirements.txt`.
 
-Place a file into the `builds` folder with the build order. Run `python3 ./main.py --build=name-of-build.txt --shorthand=True`. An example is included in this repo. Copying and pasting a build from SpawningTool should be good enough, but make sure there aren't empty lines at the start or at the end of the file.
+Place a file into the `builds` folder with the build order. Run:
+
+`python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False`
+
+An example build is included in this repo. Copying and pasting a build from SpawningTool should be good enough, but make sure there aren't empty lines at the start or at the end of the file.
+
+`--build`: Filename of the build order
+
+`--shorthand`: Whether to abbreviate the names of units/buildings to common shorthand (eg. "Barracks" -> "Rax")
+
+`--supply`: Whether to read out the supply along with the action that needs to be performed
 
 # License
 

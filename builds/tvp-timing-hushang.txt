@@ -1,0 +1,35 @@
+  14	  0:17	  Supply Depot	  
+  15	  0:40	  Barracks	  
+  16	  0:45	  Refinery	  
+  19	  1:30	  Marine, Orbital Command	  
+  20	  1:41	  Command Center	  
+  20	  1:49	  Barracks Reactor	  
+  20	  1:55	  Supply Depot	  
+  21	  2:12	  Factory	  
+  23	  2:23	  Bunker	  
+  23	  2:25	  Marine x2	  
+  25	  2:33	  Refinery	  
+  26	  2:44	  Marine x2	  
+  29	  2:54	  Orbital Command	  
+  30	  3:02	  Starport	  
+  30	  3:05	  Factory Tech Lab	  
+  31	  3:13	  Marine x2	  
+  34	  3:24	  Widow Mine	  
+  37	  3:28	  Supply Depot	  
+  39	  3:40	  Viking	  
+  41	  3:46	  Siege Tank	  
+  46	  3:51	  Supply Depot	  
+  48	  4:05	  Barracks x2	  
+  50	  4:12	  Starport Tech Lab	  
+  50	  4:15	  Marine x2	  
+  52	  4:21	  Supply Depot	  
+  54	  4:28	  Factory Tech Lab	  
+  54	  4:31	  Engineering Bay	  
+  54	  4:36	  Refinery	  
+  56	  4:38	  Starport Reactor, Marine	  
+  58	  4:47	  Siege Tank	  
+  65	  5:02	  Refinery	  
+  70	  5:19	  Siege Tank	  
+  77	  5:41	  Command Center	  
+  77	  5:44	  Marauder x2	  
+  85	  6:17	  Marauder x2

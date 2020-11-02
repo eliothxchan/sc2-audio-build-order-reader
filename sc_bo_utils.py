@@ -30,6 +30,16 @@ def to_shorthand(text):
         "siege tank": "tank",
         "widow mine": "mine",
         "orbital command": "orbital",
+        "hyperflight rotors": "banshee speed",
+        "rapid reignition system": "medivac speed",
+        "advanced ballistics": "liberator range",
+        "mag-field accelerator": "mag-field",
+        "cloaking field": "banshee cloak",
+        "personal cloaking": "ghost cloak",
+        "weapon refit": "yamato",
+        "stimpack": "stim",
+        "infernal pre-igniter": "blue flame",
+
         
         # Zerg
         "zergling": "ling",
@@ -41,13 +51,29 @@ def to_shorthand(text):
         "evolution chamber": "evo chamber",
         "spine crawler": "spine",
         "spore crawler": "spore",
+        "glial reconstitution": "roach speed",
+        "muscular augments": "hydra speed",
+        "metabolic boost": "zergling speed",
+        "anabolic synthesis": "ultralisk speed",
+        "centrifugal hooks": "baneling speed",
+        "pneumatized carapace": "overlord speed",
+        "grooved spines": "hydralisk range",
+        "seismic spines": "lurker range",
 
         # Protoss
         "photon cannon": "cannon",
         "cybernetics core": "cyber core",
         "robotics facility": "robo",
         "robotics bay": "robo bay",
-        "warp prism": "prism"
+        "warp prism": "prism",
+        "gravitic boosters": "observer speed",
+        "flux vanes": "void ray speed",
+        "resonating glaives": "glaives",
+        "gravitic drive": "prism speed",
+        "anion pluse-crystals": "phoenix range",
+        "extended thermal lance": "thermal lance",
+        "psionic storm": "psi storm",
+        "shadow stride": "DT blink"
     }
     
     for word in shorthand:

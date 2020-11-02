@@ -4,15 +4,17 @@ This project takes in a build order and reads it using text-to-speech based on t
 
 This does not work without timestamps.
 
+An example build is included in this repo. Copying and pasting a build from SpawningTool should be good enough, but make sure there aren't empty lines at the start or at the end of the file.
+
 # Requirements and Running the Application
 
 This project requires Python 3. Install the necessary requirements using `pip3 install -r requirements.txt`.
 
-Place a file into the `builds` folder with the build order. Run:
+Place a build file into the `builds` folder with the build order. Run:
 
 `python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False`
 
-An example build is included in this repo. Copying and pasting a build from SpawningTool should be good enough, but make sure there aren't empty lines at the start or at the end of the file.
+The application takes the following command line arguments:
 
 `--build`: Filename of the build order
 

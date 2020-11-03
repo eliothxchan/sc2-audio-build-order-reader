@@ -12,7 +12,7 @@ This project requires Python 3. Install the necessary requirements using `pip3 i
 
 Place a build file into the `builds` folder with the build order. Run:
 
-`python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False`
+`python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False --delay=0`
 
 The application takes the following command line arguments:
 

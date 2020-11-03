@@ -27,7 +27,7 @@
   60	  4:38	  Command Center	  
   60	  4:42	  Marine	  
   60	  4:45	  Siege Tank
-  60      5:05    Move out army with single tank	  
+  69	  5:05    Move out army with single tank	  
   69	  5:07	  Barracks x2	  
   69	  5:11	  Refinery x2	  
   69	  5:15	  Engineering Bay x2	  

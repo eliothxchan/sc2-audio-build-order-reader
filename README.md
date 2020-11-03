@@ -24,6 +24,12 @@ The application takes the following command line arguments:
 
 `--delay`: How long to delay the start of the speech (negative means starts sooner)
 
+# Tips and Tricks
+
+1. Start the build right as the "3" in the countdown to the start of the game begins. 3 seconds is a decent enough time for the lines to become reminders of what to build in the future, rather than markers of units or buildings that you should already have built.
+2. Feel free to add in actions that aren't strictly build items in your build order file. Spreading creep, dropping mules, or moving out your army are great candidates for reminders.
+
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

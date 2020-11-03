@@ -6,14 +6,14 @@ def time_difference(old_time, new_time):
     new_delta = timedelta(hours=0, minutes=new_time.minute, seconds=new_time.second)
     return new_delta - old_delta
 
-def generate_timer_duration(clock_timestamp):
+def generate_timer_duration(clock_timestamp, delay):
     minute = int(clock_timestamp.split(":")[0])
     second = int(clock_timestamp.split(":")[1])
     new_time = time(minute = minute, second = second)
-    # One second early as reader takes a bit of time to boot up
-    old_time = time(minute = 0, second = 1) 
 
-    return time_difference(old_time, new_time).seconds
+    old_time = time(minute = 0, second = 0) 
+
+    return time_difference(old_time, new_time).seconds - delay
 
 
 def to_shorthand(text):

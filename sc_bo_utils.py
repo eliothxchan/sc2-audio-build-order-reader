@@ -13,7 +13,7 @@ def generate_timer_duration(clock_timestamp, delay):
 
     old_time = time(minute = 0, second = 0) 
 
-    return time_difference(old_time, new_time).seconds - delay
+    return time_difference(old_time, new_time).seconds + delay
 
 
 def to_shorthand(text):

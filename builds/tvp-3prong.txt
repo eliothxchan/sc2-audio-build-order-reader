@@ -26,13 +26,13 @@
   51	  4:22	  Marine x2	  
   60	  4:38	  Command Center	  
   60	  4:42	  Marine	  
-  60	  4:45	  Siege Tank	  
+  60	  4:45	  Siege Tank
+  60      5:05    Move out army with single tank	  
   69	  5:07	  Barracks x2	  
   69	  5:11	  Refinery x2	  
   69	  5:15	  Engineering Bay x2	  
   69	  5:20	  Starport Tech Lab	  
   71	  5:28	  Siege Tank	  
   78	  5:50	  Orbital Command	  
-  78	  5:52	  Starport Reactor	  
+  78	  5:52	  Swap Barracks onto Tech Labs, Starport Reactor, Factory Tech Lab	  
   82	  6:18	  Barracks x2	  
-  87	  6:25	  Factory Reactor

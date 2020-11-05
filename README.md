@@ -26,7 +26,7 @@ The application takes the following command line arguments:
 
 # Tips and Tricks
 
-1. Start the build right as the "3" in the countdown to the start of the game begins. 3 seconds is a decent enough time for the lines to become reminders of what to build in the future, rather than markers of units or buildings that you should already have built.
+1. Start the build right as the "3" in the countdown to the start of the game begins with a -2 delay. 5 seconds is a decent enough time for the lines to become reminders of what to build in the future, rather than markers of units or buildings that you should already have built.
 2. Feel free to add in actions that aren't strictly build items in your build order file. Spreading creep, dropping mules, or moving out your army are great candidates for reminders.
 
 

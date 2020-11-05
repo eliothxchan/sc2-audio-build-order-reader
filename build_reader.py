@@ -17,7 +17,7 @@ def read(build_file, shorthand, supply, delay):
         print("Build start.")
         call(["python3", "tts.py", "Build start."])
 
-        for row in build_order:
+        for row in build_order.readlines():
             # Formatting
             row = sc_bo_utils.cleanup_row(row)
             row = row.split(",")

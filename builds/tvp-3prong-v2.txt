@@ -1,0 +1,46 @@
+  14	  0:17	  Supply Depot	  
+  15	  0:39	  Barracks	  
+  16	  0:43	  Refinery	  
+  18	  1:03	  Saturate Gas	
+  19	  1:27	  Reaper, Orbital Command	  	  
+  20	  1:39	  Command Center
+  20	  1:49	  Supply Depot	  
+  21	  2:00	  Marine	  
+  23	  2:06	  Factory	  
+  23	  2:16	  Bunker
+  24	  2:20	  Barracks Reactor
+  24	  2:24	  Refinery	
+  26	  2:43	  Saturate Gas	  
+  26	  2:51	  Orbital Command	  
+  26	  2:53	  Starport	  
+  26	  2:57	  Marine x2
+  29	  3:04	  Widow Mine	  
+  32	  3:15	  Marine x2	  
+  36	  3:25	  Widow Mine, Supply Depot	  
+  40	  3:30	  Medivac, Marine x2	    
+  45	  3:38	  Supply Depot
+  46	  3:47	  Factory Tech Lab	
+  46	  3:50	  Marine x2	
+  50	  4:02	  Supply Depot, fly Medivac to natural	 
+  52	  4:06	  Tank, Marine x2
+  57	  4:14	  Supply Depot
+  57	  4:17	  Liberator, rally to third
+  62	  4:26	  Marine x2	  
+  66	  4:36	  Command Center, Tank	 
+  70	  4:44	  Marine x2	 
+  73	  4:48	  Supply Depot
+  75	  5:01	  Marine x2	
+  82	  5:09	  Barracks x2, Supply Depot, Starport Tech Lab, Tank
+  83	  5:15	  Move out with marines, two tanks, and four SCVs	
+  83	  5:19	  Marine x2	
+  86	  5:24	  Engineering Bay x2
+  87	  5:28	  Refinery x2
+  87	  5:34	  Supply Depot
+  87	  5:37	  Marine x2, shift click Liberator to main, medivac drop in natural
+  92	  5:43	  Tank	
+  92	  5:48	  Orbital Command, lift off Starport for Reactor, Saturate Gases
+  96	  5:56	  Marine x2, Lift Barracks onto first Tech Lab, Marine, Stim, start to fight with main army
+  96	  6:03	  Supply Depot
+  98	  6:13	  Barracks x2
+  100	  6:17	  Lift Barracks onto second Tech Lab, Factory Tech Lab, Combat Shields	
+  108	  6:33	  Supply Depot  

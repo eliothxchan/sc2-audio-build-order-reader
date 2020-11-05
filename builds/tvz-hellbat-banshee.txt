@@ -1,0 +1,83 @@
+  14	  0:17	  Supply Depot	  
+  16	  0:40	  Barracks	  
+  16	  0:44	  Refinery	  
+  17      1:06    Saturate Gas
+  19	  1:27	  Orbital Command, Reaper	  
+  20	  1:39	  Command Center	  
+  20	  1:50	  Supply Depot	  
+  21	  1:57	  Marine	  
+  23	  2:08	  Factory	  
+  23	  2:22	  Barracks Reactor	  
+  24	  2:26	  Refinery	  
+  26	  2:51	  Orbital Command	  
+  27	  2:59	  Starport, swap Factory on Reactor	  
+  27	  3:06	  Hellion x2
+  27	  3:08	  Barracks Tech Lab	  
+  32	  3:15	  Supply Depot in natural wall	  
+  34	  3:27	  Hellion x2, lift Barracks when Tech Lab is done
+  40	  3:38	  Supply Depot	  
+  40	  3:47	  Starport on Tech Lab, Banshee, Cloaking Field	  
+  47	  3:48	  Hellion x2
+  51	  3:59	  Armory, Depot	  	  
+  54	  4:10	  Hellion x2  	  
+  58	  4:24	  Banshee, rally on other banshee Supply Depot
+  59	  4:28	  Barracks Tech Lab	  
+  66      4:36    Move out with 8 hellions and banshee to third
+  68      4:40    Lift Factory, make Reactor
+  68	  4:44	  Command Center	  
+  64	  4:48	  Supply Depot	  
+  64	  4:49	  Marine, Stimpack
+  67      5:00    Transform hellions to hellbats, cloak banshee, attack	  
+  67	  5:05	  Barracks, 2nd Barracks on Reactor, Refinery 2x	  
+  69	  5:08	  Marine, Lift Starport, make Reactor	  
+  70	  5:19	  Supply Depot	  
+  72	  5:26	  Engineering Bay x2	  
+  72	  5:28	  Marine, Factory on Tech Lab	    
+  75	  5:36	  Siege Tank	  
+  75	  5:42	  Supply Depot	  
+  79	  5:46	  Marine	  
+  81	  5:54	  Marine x2, Lift Barracks onto Reactor, Terran Infantry Armor Level 1, Terran Infantry Weapons Level 1
+  84	  5:58	  Supply Depot	  
+  84	  5:59	  Orbital Command	  
+  84	  6:00	  Marine x3	    
+  88	  6:06	  Medivac x2	  
+  93	  6:12	  Tank, Marine	    
+  93	  6:18	  Marine x3  
+  99	  6:24	  Supply Depot, Orbital to third	  
+  102	  6:27	  Terran Vehicle Weapons Level 1	  
+  102	  6:28	  Marine	  
+  102	  6:30	  Marine x2, Combat Shield	    
+  107	  6:40	  Marine x2, Move out with two medivacs and all marines to 4th  
+  107	  6:46	  Marine	  
+  111	  6:47	  Marine	  
+  111	  6:53	  Supply Depot	  
+  112	  6:56	  Barracks x2	  
+  112	  6:58	  Factory, Tank	  	  
+  118	  7:04	  Refinery x2	  
+  118	  7:08	  Marine x3	  
+  120	  7:10	  Marine x2  	  
+  126	  7:16	  Medivac x2, Supply Depot, unload Medivacs	 
+  131	  7:25	  Supply Depot, move in to attack	  
+  131	  7:26	  Marine x3	  
+  136	  7:30	  Marine	  
+  136	  7:32	  Siege Tank	  
+  141	  7:38	  Marine, Supply Depot	  
+  141	  7:43	  Barracks Reactor x2, Factory Tech Lab	  
+  143	  7:46	  Marine x3	  
+  143	  7:48	  Supply Depot	  
+  143	  7:50	  Medivac x2	  
+  150	  7:52	  Supply Depot	  
+  150	  7:58	  Concussive Shells	  
+  150	  8:00	  Command Center, move out with 3 tanks, medivacs, and marines	  
+  150	  8:04	  Marine x5, Terran Infantry Weapons Level 2, Terran Infantry Armor Level 2	  
+  155	  8:12	  Supply Depot	  
+  153	  8:13	  Siege Tank	  
+  153	  8:15	  Supply Depot	  
+  153	  8:19	  Siege Tank	  
+  159	  8:21	  Marine x4	  
+  159	  8:22	  Marine x2	  
+  159	  8:26	  Marine x2	  
+  167	  8:31	  Marine	  
+  168	  8:39	  Marine x6	  
+  168	  8:41	  Supply Depot	  
+  174	  8:44	  Marine x2

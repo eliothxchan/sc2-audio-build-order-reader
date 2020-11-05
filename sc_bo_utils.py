@@ -39,6 +39,17 @@ def to_shorthand(text):
         "weapon refit": "yamato",
         "stimpack": "stim",
         "infernal pre-igniter": "blue flame",
+        "neosteel armor": "building armor",
+        "hi-sec auto tracking": "building range",
+        "terran infantry armor level 1": "+1 infantry armor",
+        "terran infantry weapons level 1": "+1 infantry attack",
+        "terran infantry armor level 2": "+2 infantry armor",
+        "terran infantry weapons level 2": "+2 infantry attack",
+        "terran infantry armor level 3": "+3 infantry armor",
+        "terran infantry weapons level 3": "+3 infantry attack",
+        "terran ship weapons level 1": "+1 air attack",
+        "terran ship weapons level 2": "+2 air attack",
+        "terran ship weapons level 3": "+3 air attack",
 
         
         # Zerg

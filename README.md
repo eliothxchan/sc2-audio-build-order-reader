@@ -12,7 +12,7 @@ This project requires Python 3. Install the necessary requirements using `pip3 i
 
 Place a build file into the `builds` folder with the build order. Run:
 
-`python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False --delay=0`
+`python3 ./main.py --build=name-of-build.txt --shorthand=True --supply=False --delay=0 --scaling=1.0`
 
 The application takes the following command line arguments:
 
@@ -24,10 +24,13 @@ The application takes the following command line arguments:
 
 `--delay`: How long to delay the start of the speech (negative means starts sooner)
 
+`--scaling`: Linear scaling on timestamps, use to give more leniency in the speed of the build. Delay is taken into account after scaling, not before.
+
 # Tips and Tricks
 
 1. Start the build right as the "3" in the countdown to the start of the game begins with a -2 delay. 5 seconds is a decent enough time for the lines to become reminders of what to build in the future, rather than markers of units or buildings that you should already have built.
 2. Feel free to add in actions that aren't strictly build items in your build order file. Spreading creep, dropping mules, or moving out your army are great candidates for reminders.
+3. A 1.05 scaling is a decent amount to provide leniency to a build order without it becoming too late. A 1.05 scaling is a 5% slowing of the builder order. It turns a 7:30 timing attack into 7:53, and a 6 minute timing into 6:18.
 
 
 # License

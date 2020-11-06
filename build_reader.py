@@ -9,7 +9,7 @@ def perform_action(printed_statement, spoken_text):
     print(printed_statement)
     call(["python3", "tts.py", spoken_text])
 
-def read(build_file, shorthand, supply, delay):
+def read(build_file, shorthand, supply, delay, scaling):
     print("Press enter to begin: ", end = '')
     input()
 
@@ -23,11 +23,11 @@ def read(build_file, shorthand, supply, delay):
             row = row.split(",")
 
             # Timers for speech
-            timer_length = sc_bo_utils.generate_timer_duration(row[1], delay)
+            timer_length = sc_bo_utils.generate_timer_duration(row[1], delay, scaling)
 
             # Read action
             actions = ','.join(row[2:])
-            printed_text = "({}) {}: {}".format(row[1], row[0], actions)
+            printed_text = sc_bo_utils.generate_reminder_line(row[1], scaling, row[0], actions)
 
             if shorthand:
                 actions = sc_bo_utils.to_shorthand(actions)

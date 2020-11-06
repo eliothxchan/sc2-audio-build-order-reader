@@ -6,14 +6,26 @@ def time_difference(old_time, new_time):
     new_delta = timedelta(hours=0, minutes=new_time.minute, seconds=new_time.second)
     return new_delta - old_delta
 
-def generate_timer_duration(clock_timestamp, delay):
+def generate_timer_duration(clock_timestamp, delay, scaling):
     minute = int(clock_timestamp.split(":")[0])
     second = int(clock_timestamp.split(":")[1])
     new_time = time(minute = minute, second = second)
 
     old_time = time(minute = 0, second = 0) 
 
-    return time_difference(old_time, new_time).seconds + delay
+    return (time_difference(old_time, new_time).seconds * scaling) + delay
+
+def generate_reminder_line(clock_timestamp, scaling, supply, actions):
+    minute = int(clock_timestamp.split(":")[0])
+    second = int(clock_timestamp.split(":")[1])
+    new_time = time(minute = minute, second = second)
+
+    old_time = time(minute = 0, second = 0)
+    new_time = timedelta(seconds = (time_difference(old_time, new_time).seconds * scaling))
+
+    minutes = int(new_time.seconds / 60)
+    seconds = new_time.seconds % 60
+    return "({}:{}) {}: {}".format(str(minutes).zfill(2), str(seconds).zfill(2), supply, actions)
 
 
 def to_shorthand(text):
